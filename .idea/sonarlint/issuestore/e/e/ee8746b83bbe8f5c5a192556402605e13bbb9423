@@ -1,0 +1,49 @@
+
+k	java:S116Ş"URename this field "btn_anadir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÈ¦Î
+w	java:S116ß"\Rename this field "cbx_diestro_zurdo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿»«÷üÿÿÿÿ
+j	java:S116à"URename this field "cbx_dorsal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¥êR
+r	java:S116á"WRename this field "cbx_posicion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ŸÎùùÿÿÿÿ
+q	java:S116â"VRename this field "cbx_titular" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏêìÒşÿÿÿÿ
+w	java:S116å"\Rename this field "lbl_diestro_zurdo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô„üÄüÿÿÿÿ
+p	java:S116æ"URename this field "lbl_dorsal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ş¥†ıÿÿÿÿ
+u	java:S116ç"_Rename this field "lbl_nombrefutbolista" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸ€ñ
+u	java:S116è"_Rename this field "lbl_posicion_jugador" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‰Š§
+q	java:S116é"VRename this field "lbl_titular" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š„¼’ÿÿÿÿÿ
+t	java:S116ê"YRename this field "tbl_futbolista" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û–¤İúÿÿÿÿ
+x	java:S116ë"]Rename this field "txt_nombre_jugador" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõ¾İüÿÿÿÿ
+p
+java:S1450Ş"YRemove the "btn_anadir" field and declare it as a local variable in the relevant methods.(áÈ¦Î
+r
+java:S1450ã"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450ä"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+|
+java:S1450å"`Remove the "lbl_diestro_zurdo" field and declare it as a local variable in the relevant methods.(ô„üÄüÿÿÿÿ
+u
+java:S1450æ"YRemove the "lbl_dorsal" field and declare it as a local variable in the relevant methods.(»ş¥†ıÿÿÿÿ
+z
+java:S1450ç"cRemove the "lbl_nombrefutbolista" field and declare it as a local variable in the relevant methods.(öŸ€ñ
+z
+java:S1450è"cRemove the "lbl_posicion_jugador" field and declare it as a local variable in the relevant methods.(ÿ‰Š§
+v
+java:S1450é"ZRemove the "lbl_titular" field and declare it as a local variable in the relevant methods.(Š„¼’ÿÿÿÿÿ
+d	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ·Ôê
+A
+java:S1172ª"*Remove this unused method parameter "evt".(İ·Ôê
+F
+java:S1197½"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147Ì"ECombine this catch with the one at line 202, which has the same body.(¨¦Š½
+\
+java:S2147Î"ECombine this catch with the one at line 202, which has the same body.(ã€ 
+[
+java:S2147Ğ"ECombine this catch with the one at line 202, which has the same body.(ñÎ¯%
+f
+java:S1192:"KDefine a constant instead of duplicating this literal "Seleccione" 4 times.(ƒ€á¬ÿÿÿÿÿ
+>
+java:S1604B"(Make this anonymous inner class a lambda(ÍÜ­
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ğˆûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¸ßú
